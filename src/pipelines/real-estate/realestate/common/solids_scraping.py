@@ -9,7 +9,7 @@ import json
 
 import gzip
 import shutil
-
+ 
 # from io import BytesIO
 
 from realestate.common.helper_functions import json_zip_writer
